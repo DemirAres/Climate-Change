@@ -1,1 +1,1 @@
-# Climate-Change
+This website is designed to show the average microplastic levels in the water of all countries (at least most of them) and their levels in the future, past, and present. This way, people will understand the seriousness of this issue and start doing something, even if it's small.
